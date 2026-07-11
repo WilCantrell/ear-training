@@ -1,6 +1,6 @@
-# eartraining
+# Wil's Ear Training
 
-A new Flutter project.
+Quizzes user on intervals, chords, scales, patterns, etc.
 
 ## Getting Started
 
